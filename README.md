@@ -21,4 +21,4 @@ Copy https://github.com/appdynamicsdh/kafka-camel-correlation/blob/master/kafka-
 5. Watch as you see the correlation in the AppDynamics controller (Can take up to 5 minutes).
 
 
-![Correlation Screenshot](https://github.com/appdynamicsdh/kafka-camel-correlation/KafkaCamelCorrelation.png)
+![Correlation Screenshot](https://github.com/appdynamicsdh/kafka-camel-correlation-2.0/blob/master/KafkaCamelCorrelation.png)
